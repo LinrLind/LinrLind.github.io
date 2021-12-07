@@ -1,6 +1,6 @@
 const menuBtn = document.querySelector(".menu-btn");
-const menuItems = document.querySelector(".menu-items");
-const menuItem = document.querySelectorAll(".menu-item");
+const menuItems = document.querySelector(".nav-links");
+const menuItem = document.querySelectorAll(".nav-link");
 
 // main toggle
 menuBtn.addEventListener("click", () => {
