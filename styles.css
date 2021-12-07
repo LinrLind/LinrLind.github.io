@@ -82,7 +82,7 @@ h5 {
 
 .item-1 {
   /* Ripped paper top left*/
-  background-image: url("IMG/ripped-paper-top-corner.png");
+  background-image: url("img/ripped-paper-top-corner.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -227,7 +227,7 @@ p {
 
 .item-5 {
   /* ripped paper-middle */
-  background-image: url("IMG/Ripped-paper-middle.png");
+  background-image: url("img/Ripped-paper-middle.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
